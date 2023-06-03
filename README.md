@@ -11,7 +11,9 @@
  
  
  ## 📈 My Github Stats
+ <div align='center'>
 ![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanstx&theme=dracula)  ‌ ‌ ‌![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanstx&theme=dracula)
+ </div>
  
 
 ## 🔗 Follow ME
