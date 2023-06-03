@@ -17,7 +17,7 @@
  
  </div>
  
-
+<br><hr>
 <div align='center'>
  
 <h3>🔗 My Social Medias<h3>
