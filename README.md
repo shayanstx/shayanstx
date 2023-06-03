@@ -11,7 +11,7 @@
  
  
  ## 📈 My Github Stats
-![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanstx&theme=dracula)  ![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanstx&theme=dracula)
+![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanstx&theme=dracula)  ‌ ‌ ‌![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanstx&theme=dracula)
  
 
 ## 🔗 Follow ME
