@@ -1,3 +1,3 @@
 # Hi , I'm SHAYAN :D
 
-![Logo](/Images/shayanstx-loogo.png)
+![Logo](/Images/shayanstx-logo.png)
