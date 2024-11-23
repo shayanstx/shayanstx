@@ -14,7 +14,7 @@
 
 ## 📈 My Github Stats
 
-![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanstx&theme=dracula) ‌ ‌ ‌ ‌[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=black-ice&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=175&hide_total_contributions=true)](https://git.io/streak-stats)
+![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanstx&theme=dracula) ‌ ‌ ‌ ‌[![GitHub Streak](https://streak-stats.demolab.com?user=shayanstx&theme=black-ice&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=175&hide_total_contributions=true)](https://git.io/streak-stats)
  
 ## 
 
