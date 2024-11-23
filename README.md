@@ -16,7 +16,7 @@
 
 ![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanstx&theme=dracula)  ‌ ‌ ‌![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanstx&theme=dracula)
  
-<hr>
+## 
 
 <div align='center'>
 
