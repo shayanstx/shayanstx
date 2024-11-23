@@ -4,18 +4,21 @@
  - Interested in web application security and bug bounty hunting 🏹🤍
  - Love security challenges and CTF matches 🫀✨
 
+<br>
+
 ## ✨ My Skills
 
 ![JavaScript](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- 
+
+<br>
+
 ## 📈 My Github Stats
 
 ![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanstx&theme=dracula)  ‌ ‌ ‌![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanstx&theme=dracula)
  
- 
-## ‌ 
+<hr>
 
- <div align='center'>
+<div align='center'>
 
 <h4>Follow Me ✌️</h4>
  
